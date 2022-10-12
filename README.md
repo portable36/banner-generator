@@ -15,7 +15,7 @@
 
 ```chmod +x *```
 
-```bash requirements.sh```
+```sudo bash requirements.sh```
 
 ```python2 generator.py```
 
